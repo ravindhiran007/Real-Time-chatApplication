@@ -21,3 +21,7 @@ The backend is powered by Node.js and Express, while Socket.IO handles the real-
 To run the application, users need to clone the repository, install the required dependencies, and start the Node.js server. Once running, the app can be accessed locally in the browser, where multiple users can join and chat in real time. The project is lightweight, scalable, and can serve as a foundation for building more advanced chat systems.
 
 Future improvements can include features such as user authentication, private chat rooms, message persistence with a database, emoji and file sharing, and mobile-friendly UI enhancements. Overall, this project demonstrates the core concepts of real-time web communication using Socket.IO and serves as an excellent learning resource for developers exploring modern web application development
+
+#OUTPUT
+
+<img width="1031" height="658" alt="Image" src="https://github.com/user-attachments/assets/a3a109d2-9251-42dc-bddc-5b11e934189e" />
